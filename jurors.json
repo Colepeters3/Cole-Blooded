@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 1,
+    "name": "Adrian Albright",
+    "age": 74,
+    "gender": "Woman",
+    "occupation": "Postal worker",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 0,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Gabriel Hawthorne",
+    "age": 64,
+    "gender": "Nonbinary",
+    "occupation": "Small business owner",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nico Ortega",
+    "age": 62,
+    "gender": "Woman",
+    "occupation": "Electrician",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "No personal connection",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 4,
+    "name": "Wren Calder",
+    "age": 51,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 1,
+      "style": 0,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "Farah Joseph",
+    "age": 79,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 1,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "Margot Rangel",
+    "age": 66,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 7,
+    "name": "Uma Devereaux",
+    "age": 34,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 3,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Eliza Lindholm",
+    "age": 50,
+    "gender": "Man",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lucian Solano",
+    "age": 60,
+    "gender": "Nonbinary",
+    "occupation": "Bus driver",
+    "education": "High school diploma",
+    "city": "Riverside",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 2,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "Soren Galvan",
+    "age": 35,
+    "gender": "Man",
+    "occupation": "Accountant",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 0,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 11,
+    "name": "Darius Molina",
+    "age": 22,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 1,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 12,
+    "name": "Lena Amari",
+    "age": 51,
+    "gender": "Woman",
+    "occupation": "Teacher",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 13,
+    "name": "Selene Henson",
+    "age": 43,
+    "gender": "Woman",
+    "occupation": "Designer",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "No personal connection",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 14,
+    "name": "Cassian Otero",
+    "age": 53,
+    "gender": "Woman",
+    "occupation": "Mechanic",
+    "education": "Bachelor’s degree",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 4,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 15,
+    "name": "Kaito Castillo",
+    "age": 65,
+    "gender": "Man",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 1,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 16,
+    "name": "Rhys Karimi",
+    "age": 63,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 2,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Blair Renard",
+    "age": 21,
+    "gender": "Nonbinary",
+    "occupation": "Postal worker",
+    "education": "High school diploma",
+    "city": "Long Beach",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 18,
+    "name": "Jasper Dunlap",
+    "age": 34,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 4,
+      "hair": 4,
+      "style": 2,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 19,
+    "name": "Quentin Lovelace",
+    "age": 26,
+    "gender": "Woman",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 20,
+    "name": "August Stanton",
+    "age": 45,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 2,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 21,
+    "name": "Idris Gentry",
+    "age": 45,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 22,
+    "name": "Orion Mori",
+    "age": 50,
+    "gender": "Woman",
+    "occupation": "Nurse",
+    "education": "Trade certificate",
+    "city": "Fresno",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 5,
+      "hair": 1,
+      "style": 4,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Anika Baines",
+    "age": 58,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "High school diploma",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 24,
+    "name": "Gideon Hossain",
+    "age": 69,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 1,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Nolan Palacios",
+    "age": 43,
+    "gender": "Nonbinary",
+    "occupation": "Bus driver",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 0,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 26,
+    "name": "Yasmin Choudhury",
+    "age": 24,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 3,
+      "style": 0,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 27,
+    "name": "Finn Keller",
+    "age": 37,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Master’s degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 0,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 28,
+    "name": "Micah Rios",
+    "age": 51,
+    "gender": "Woman",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 3,
+      "hair": 3,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 29,
+    "name": "Vera Escobar",
+    "age": 18,
+    "gender": "Nonbinary",
+    "occupation": "Designer",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 4,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Emmett Maddox",
+    "age": 33,
+    "gender": "Man",
+    "occupation": "Mechanic",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 31,
+    "name": "Malachi Sullivan",
+    "age": 64,
+    "gender": "Woman",
+    "occupation": "Retired",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "No personal connection",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 1,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Tessa Goodwin",
+    "age": 78,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 33,
+    "name": "Desmond Nakamura",
+    "age": 49,
+    "gender": "Nonbinary",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Leona Barakat",
+    "age": 31,
+    "gender": "Woman",
+    "occupation": "Small business owner",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 4,
+      "shirt": 6,
+      "background": 5,
+      "glasses": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Sienna Iqbal",
+    "age": 72,
+    "gender": "Woman",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 2,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 36,
+    "name": "Cleo Pereira",
+    "age": 29,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 37,
+    "name": "Kieran Coleman",
+    "age": 50,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Master’s degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rosa Khoury",
+    "age": 79,
+    "gender": "Nonbinary",
+    "occupation": "Nurse",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Briar Rosales",
+    "age": 37,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "Joelle Fairchild",
+    "age": 41,
+    "gender": "Woman",
+    "occupation": "Student",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 4,
+      "style": 3,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 41,
+    "name": "Rafael Manning",
+    "age": 68,
+    "gender": "Nonbinary",
+    "occupation": "Bus driver",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "No personal connection",
+    "race": "Asian",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 42,
+    "name": "Beatrice Tanaka",
+    "age": 62,
+    "gender": "Nonbinary",
+    "occupation": "Accountant",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ingrid Guerrero",
+    "age": 26,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "No personal connection",
+    "race": "Black or African American",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 4,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 44,
+    "name": "Petra Neumann",
+    "age": 50,
+    "gender": "Nonbinary",
+    "occupation": "Teacher",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 1,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 45,
+    "name": "Ari Benitez",
+    "age": 18,
+    "gender": "Woman",
+    "occupation": "Designer",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Harlow Jabbari",
+    "age": 51,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Odessa Porter",
+    "age": 21,
+    "gender": "Man",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "No personal connection",
+    "race": "Asian",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 3,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 48,
+    "name": "Zuri Dacosta",
+    "age": 39,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Freya Kobayashi",
+    "age": 43,
+    "gender": "Nonbinary",
+    "occupation": "Postal worker",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 50,
+    "name": "Naomi Salazar",
+    "age": 50,
+    "gender": "Nonbinary",
+    "occupation": "Small business owner",
+    "education": "Trade certificate",
+    "city": "Fresno",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 4,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 51,
+    "name": "Vivian Ferreira",
+    "age": 30,
+    "gender": "Nonbinary",
+    "occupation": "Electrician",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 3,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Ezra McAllister",
+    "age": 61,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 53,
+    "name": "Marcel Thakur",
+    "age": 45,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "No personal connection",
+    "race": "White",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 2,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 54,
+    "name": "Tobias Halvorsen",
+    "age": 57,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Elian Ochoa",
+    "age": 39,
+    "gender": "Woman",
+    "occupation": "Librarian",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 3,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 56,
+    "name": "Luca Blackwell",
+    "age": 47,
+    "gender": "Woman",
+    "occupation": "Student",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Soraya Jansen",
+    "age": 65,
+    "gender": "Woman",
+    "occupation": "Bus driver",
+    "education": "Associate degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Dahlia Qureshi",
+    "age": 66,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Leila Davenport",
+    "age": 63,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 60,
+    "name": "Sabrina Lawson",
+    "age": 41,
+    "gender": "Man",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 61,
+    "name": "Camila Sato",
+    "age": 60,
+    "gender": "Man",
+    "occupation": "Designer",
+    "education": "High school diploma",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Juniper Flores",
+    "age": 43,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Rhea Mendoza",
+    "age": 48,
+    "gender": "Woman",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "No personal connection",
+    "race": "Asian",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 64,
+    "name": "Bianca Trevino",
+    "age": 39,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 65,
+    "name": "Isla Hartwell",
+    "age": 52,
+    "gender": "Woman",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 4,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 66,
+    "name": "Priya Orozco",
+    "age": 46,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 2,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 67,
+    "name": "Astrid Brennan",
+    "age": 19,
+    "gender": "Man",
+    "occupation": "Electrician",
+    "education": "Associate degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 68,
+    "name": "Hugo Johansson",
+    "age": 56,
+    "gender": "Man",
+    "occupation": "Retail manager",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 69,
+    "name": "Opal Ramsey",
+    "age": 78,
+    "gender": "Woman",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 2,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 70,
+    "name": "Amara Desai",
+    "age": 26,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Asian",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 4,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 71,
+    "name": "Gemma Leung",
+    "age": 73,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 4,
+      "hair": 4,
+      "style": 2,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 72,
+    "name": "Noelle Sinclair",
+    "age": 42,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 6,
+      "hair": 1,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 73,
+    "name": "Xavier Gallagher",
+    "age": 54,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 74,
+    "name": "Felix Miranda",
+    "age": 37,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 75,
+    "name": "Mateo Alvarez",
+    "age": 48,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 3,
+      "hair": 2,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 76,
+    "name": "Valencia Henderson",
+    "age": 47,
+    "gender": "Nonbinary",
+    "occupation": "Teacher",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 4,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 77,
+    "name": "Ellis Osei",
+    "age": 56,
+    "gender": "Nonbinary",
+    "occupation": "Designer",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 3,
+      "style": 4,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 78,
+    "name": "Maeve Carver",
+    "age": 24,
+    "gender": "Man",
+    "occupation": "Mechanic",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 79,
+    "name": "Talia Kapoor",
+    "age": 40,
+    "gender": "Woman",
+    "occupation": "Retired",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 0,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 80,
+    "name": "Delaney Reinhardt",
+    "age": 62,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Black or African American",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 81,
+    "name": "Leon Duarte",
+    "age": 23,
+    "gender": "Woman",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 4,
+      "hair": 4,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 82,
+    "name": "Shiloh Lombardi",
+    "age": 80,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 2,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 83,
+    "name": "Celeste Sorensen",
+    "age": 25,
+    "gender": "Nonbinary",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 0,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 84,
+    "name": "Keira Gautam",
+    "age": 33,
+    "gender": "Nonbinary",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 4,
+      "style": 1,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 85,
+    "name": "Ronan Moreau",
+    "age": 71,
+    "gender": "Woman",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 0,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 86,
+    "name": "Bodhi Ashford",
+    "age": 36,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Doctorate",
+    "city": "Fresno",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 87,
+    "name": "Jaya Holloway",
+    "age": 25,
+    "gender": "Nonbinary",
+    "occupation": "Librarian",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 88,
+    "name": "Rafa Padilla",
+    "age": 70,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 2,
+      "hair": 4,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 89,
+    "name": "Avery Chao",
+    "age": 36,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 2,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 90,
+    "name": "Imani Keating",
+    "age": 41,
+    "gender": "Nonbinary",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 0,
+      "shirt": 6,
+      "background": 5,
+      "glasses": true
+    }
+  },
+  {
+    "id": 91,
+    "name": "Paloma Ribeiro",
+    "age": 41,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "No personal connection",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 1,
+      "style": 0,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 92,
+    "name": "Arden Ellington",
+    "age": 40,
+    "gender": "Nonbinary",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 1,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 93,
+    "name": "Hana Macias",
+    "age": 19,
+    "gender": "Man",
+    "occupation": "Designer",
+    "education": "High school diploma",
+    "city": "Riverside",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 94,
+    "name": "Noor Suarez",
+    "age": 33,
+    "gender": "Man",
+    "occupation": "Mechanic",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 4,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 95,
+    "name": "Zara Goldstein",
+    "age": 60,
+    "gender": "Man",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "No personal connection",
+    "race": "Black or African American",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 3,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 96,
+    "name": "Flora Mukherjee",
+    "age": 68,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 97,
+    "name": "Mira Bancroft",
+    "age": 34,
+    "gender": "Man",
+    "occupation": "Postal worker",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 98,
+    "name": "Viola Ibrahim",
+    "age": 28,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Doctorate",
+    "city": "Fresno",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 2,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 99,
+    "name": "Esme Pearson",
+    "age": 42,
+    "gender": "Man",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 3,
+      "style": 4,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 100,
+    "name": "Mara Clements",
+    "age": 42,
+    "gender": "Nonbinary",
+    "occupation": "Retail manager",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 0,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 101,
+    "name": "Theo Khalil",
+    "age": 18,
+    "gender": "Nonbinary",
+    "occupation": "Software developer",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 102,
+    "name": "Eden Romero",
+    "age": 47,
+    "gender": "Woman",
+    "occupation": "Nurse",
+    "education": "Trade certificate",
+    "city": "Fresno",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 103,
+    "name": "Liora Everett",
+    "age": 71,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "No personal connection",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 3,
+      "hair": 3,
+      "style": 1,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 104,
+    "name": "Simone Malik",
+    "age": 38,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 105,
+    "name": "Corbin Tamayo",
+    "age": 73,
+    "gender": "Woman",
+    "occupation": "Bus driver",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 4,
+      "style": 4,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 106,
+    "name": "Laila Grewal",
+    "age": 75,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Black or African American",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": true
+    }
+  },
+  {
+    "id": 107,
+    "name": "Rowan Ndlovu",
+    "age": 29,
+    "gender": "Nonbinary",
+    "occupation": "Social worker",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 108,
+    "name": "Callum Bellamy",
+    "age": 54,
+    "gender": "Man",
+    "occupation": "Teacher",
+    "education": "Trade certificate",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 109,
+    "name": "Jonas Iversen",
+    "age": 72,
+    "gender": "Woman",
+    "occupation": "Designer",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 110,
+    "name": "Remi Pineda",
+    "age": 78,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Bachelor’s degree",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 111,
+    "name": "Bellamy Costa",
+    "age": 51,
+    "gender": "Nonbinary",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "No personal connection",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 3,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 112,
+    "name": "Iris Kirkland",
+    "age": 58,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Black or African American",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 113,
+    "name": "Phoenix Russo",
+    "age": 28,
+    "gender": "Man",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 5,
+      "hair": 4,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 114,
+    "name": "Asher Faulkner",
+    "age": 18,
+    "gender": "Woman",
+    "occupation": "Small business owner",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 6,
+      "hair": 1,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 115,
+    "name": "Hazel Matsuda",
+    "age": 32,
+    "gender": "Man",
+    "occupation": "Electrician",
+    "education": "High school diploma",
+    "city": "San Diego",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 6,
+      "hair": 4,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 116,
+    "name": "Omar Teixeira",
+    "age": 60,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Bachelor’s degree",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 4,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 117,
+    "name": "Adrian Hale",
+    "age": 65,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Associate degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 118,
+    "name": "Gabriel Ocampo",
+    "age": 71,
+    "gender": "Nonbinary",
+    "occupation": "Nurse",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 119,
+    "name": "Nico Bishop",
+    "age": 42,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Master’s degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 120,
+    "name": "Wren Jamison",
+    "age": 29,
+    "gender": "Woman",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 121,
+    "name": "Farah Prescott",
+    "age": 57,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "No personal connection",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 4,
+      "style": 4,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 122,
+    "name": "Margot Das",
+    "age": 36,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 123,
+    "name": "Uma Laurent",
+    "age": 47,
+    "gender": "Man",
+    "occupation": "Social worker",
+    "education": "Associate degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 0,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 124,
+    "name": "Eliza Santiago",
+    "age": 53,
+    "gender": "Man",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 0,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 125,
+    "name": "Lucian Fitzpatrick",
+    "age": 20,
+    "gender": "Nonbinary",
+    "occupation": "Designer",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 126,
+    "name": "Soren Mehta",
+    "age": 46,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Asian",
+    "look": {
+      "skin": 6,
+      "hair": 2,
+      "style": 4,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 127,
+    "name": "Darius Tran",
+    "age": 52,
+    "gender": "Man",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 128,
+    "name": "Lena Hargrove",
+    "age": 49,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 129,
+    "name": "Selene Oliveira",
+    "age": 46,
+    "gender": "Man",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 3,
+      "hair": 1,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 130,
+    "name": "Cassian Bradford",
+    "age": 37,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 131,
+    "name": "Kaito Jimenez",
+    "age": 46,
+    "gender": "Woman",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 0,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 132,
+    "name": "Rhys Rahman",
+    "age": 76,
+    "gender": "Man",
+    "occupation": "Retail manager",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 2,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 133,
+    "name": "Blair Delgado",
+    "age": 19,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "Associate degree",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Asian",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 0,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 134,
+    "name": "Jasper Lennox",
+    "age": 50,
+    "gender": "Nonbinary",
+    "occupation": "Nurse",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 135,
+    "name": "Quentin Serrano",
+    "age": 26,
+    "gender": "Woman",
+    "occupation": "Librarian",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 136,
+    "name": "August Foster",
+    "age": 76,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 1,
+      "hair": 3,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 137,
+    "name": "Idris Merritt",
+    "age": 30,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "Master’s degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 138,
+    "name": "Orion Aldridge",
+    "age": 52,
+    "gender": "Man",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 139,
+    "name": "Anika Hayashi",
+    "age": 36,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Associate degree",
+    "city": "Riverside",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 140,
+    "name": "Gideon Osman",
+    "age": 20,
+    "gender": "Man",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 141,
+    "name": "Nolan Caldwell",
+    "age": 76,
+    "gender": "Nonbinary",
+    "occupation": "Designer",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 4,
+      "hair": 0,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 142,
+    "name": "Yasmin Kamau",
+    "age": 73,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Asian",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 143,
+    "name": "Finn Reddy",
+    "age": 59,
+    "gender": "Woman",
+    "occupation": "Retired",
+    "education": "High school diploma",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 3,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 144,
+    "name": "Micah Dorsey",
+    "age": 68,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 4,
+      "style": 0,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 145,
+    "name": "Vera Lockwood",
+    "age": 28,
+    "gender": "Nonbinary",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 146,
+    "name": "Emmett Solis",
+    "age": 41,
+    "gender": "Nonbinary",
+    "occupation": "Small business owner",
+    "education": "Bachelor’s degree",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 2,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": true
+    }
+  },
+  {
+    "id": 147,
+    "name": "Malachi Garrison",
+    "age": 74,
+    "gender": "Man",
+    "occupation": "Electrician",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 148,
+    "name": "Tessa Montoya",
+    "age": 30,
+    "gender": "Woman",
+    "occupation": "Retail manager",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 3,
+      "hair": 0,
+      "style": 1,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 149,
+    "name": "Desmond Andersen",
+    "age": 62,
+    "gender": "Nonbinary",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 0,
+      "shirt": 3,
+      "background": 6,
+      "glasses": true
+    }
+  },
+  {
+    "id": 150,
+    "name": "Leona Herrera",
+    "age": 77,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 151,
+    "name": "Sienna Pacheco",
+    "age": 56,
+    "gender": "Woman",
+    "occupation": "Librarian",
+    "education": "Master’s degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 152,
+    "name": "Cleo Chandra",
+    "age": 54,
+    "gender": "Woman",
+    "occupation": "Student",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Black or African American",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 3,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 153,
+    "name": "Kieran Kaur",
+    "age": 20,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 4,
+      "hair": 4,
+      "style": 4,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 154,
+    "name": "Rosa Reyes",
+    "age": 41,
+    "gender": "Nonbinary",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "White",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 155,
+    "name": "Briar Easton",
+    "age": 27,
+    "gender": "Woman",
+    "occupation": "Social worker",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 4,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 156,
+    "name": "Joelle Lozano",
+    "age": 22,
+    "gender": "Woman",
+    "occupation": "Teacher",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 0,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 157,
+    "name": "Rafael Sterling",
+    "age": 35,
+    "gender": "Woman",
+    "occupation": "Designer",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "No personal connection",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 3,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 158,
+    "name": "Beatrice Gilmore",
+    "age": 80,
+    "gender": "Woman",
+    "occupation": "Mechanic",
+    "education": "Bachelor’s degree",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 159,
+    "name": "Ingrid Morrison",
+    "age": 60,
+    "gender": "Man",
+    "occupation": "Retired",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 0,
+      "style": 1,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 160,
+    "name": "Petra Bakshi",
+    "age": 56,
+    "gender": "Woman",
+    "occupation": "Chef",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 5,
+      "hair": 1,
+      "style": 2,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 161,
+    "name": "Ari Huerta",
+    "age": 50,
+    "gender": "Man",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "San Diego",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 3,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 162,
+    "name": "Harlow Paredes",
+    "age": 42,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 2,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 163,
+    "name": "Odessa Clayborne",
+    "age": 48,
+    "gender": "Nonbinary",
+    "occupation": "Electrician",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 2,
+      "hair": 1,
+      "style": 1,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 164,
+    "name": "Zuri Kendrick",
+    "age": 40,
+    "gender": "Nonbinary",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Black or African American",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 1,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 165,
+    "name": "Freya Rocha",
+    "age": 67,
+    "gender": "Man",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "San Diego",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 3,
+      "hair": 1,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 166,
+    "name": "Naomi Espinoza",
+    "age": 22,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Doctorate",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 4,
+      "style": 4,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 167,
+    "name": "Vivian Mahmoud",
+    "age": 66,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "High school diploma",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 1,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 168,
+    "name": "Ezra Takahashi",
+    "age": 60,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 3,
+      "style": 2,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 169,
+    "name": "Marcel Granger",
+    "age": 50,
+    "gender": "Man",
+    "occupation": "Bus driver",
+    "education": "Master’s degree",
+    "city": "San Diego",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 3,
+      "hair": 0,
+      "style": 4,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 170,
+    "name": "Tobias Navarro",
+    "age": 62,
+    "gender": "Man",
+    "occupation": "Accountant",
+    "education": "Trade certificate",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 4,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 171,
+    "name": "Elian Beaumont",
+    "age": 26,
+    "gender": "Man",
+    "occupation": "Social worker",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 2,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 172,
+    "name": "Luca Ishikawa",
+    "age": 59,
+    "gender": "Woman",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 1,
+      "style": 2,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 173,
+    "name": "Soraya Petrov",
+    "age": 59,
+    "gender": "Nonbinary",
+    "occupation": "Designer",
+    "education": "High school diploma",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 5,
+      "hair": 1,
+      "style": 4,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 174,
+    "name": "Dahlia Cortez",
+    "age": 80,
+    "gender": "Nonbinary",
+    "occupation": "Mechanic",
+    "education": "Doctorate",
+    "city": "Stockton",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 4,
+      "hair": 3,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": true
+    }
+  },
+  {
+    "id": 175,
+    "name": "Leila Kingsley",
+    "age": 54,
+    "gender": "Nonbinary",
+    "occupation": "Retired",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 176,
+    "name": "Sabrina Rosenthal",
+    "age": 59,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Bachelor’s degree",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "White",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 4,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 177,
+    "name": "Camila Farouk",
+    "age": 42,
+    "gender": "Nonbinary",
+    "occupation": "Postal worker",
+    "education": "Master’s degree",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Black or African American",
+    "look": {
+      "skin": 5,
+      "hair": 3,
+      "style": 2,
+      "shirt": 7,
+      "background": 2,
+      "glasses": true
+    }
+  },
+  {
+    "id": 178,
+    "name": "Juniper Marquez",
+    "age": 77,
+    "gender": "Man",
+    "occupation": "Small business owner",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 3,
+      "hair": 2,
+      "style": 1,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 179,
+    "name": "Rhea Tate",
+    "age": 54,
+    "gender": "Woman",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Oakland",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 1,
+      "hair": 4,
+      "style": 4,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 180,
+    "name": "Bianca Haddad",
+    "age": 77,
+    "gender": "Nonbinary",
+    "occupation": "Retail manager",
+    "education": "Doctorate",
+    "city": "Stockton",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 2,
+      "style": 4,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 181,
+    "name": "Isla Nwosu",
+    "age": 72,
+    "gender": "Nonbinary",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Asian",
+    "look": {
+      "skin": 0,
+      "hair": 0,
+      "style": 0,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 182,
+    "name": "Priya Bhandari",
+    "age": 60,
+    "gender": "Man",
+    "occupation": "Nurse",
+    "education": "Doctorate",
+    "city": "Stockton",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 1,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 183,
+    "name": "Astrid Jacobs",
+    "age": 36,
+    "gender": "Nonbinary",
+    "occupation": "Librarian",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "White",
+    "look": {
+      "skin": 2,
+      "hair": 2,
+      "style": 4,
+      "shirt": 5,
+      "background": 0,
+      "glasses": false
+    }
+  },
+  {
+    "id": 184,
+    "name": "Hugo Pradhan",
+    "age": 73,
+    "gender": "Nonbinary",
+    "occupation": "Student",
+    "education": "Trade certificate",
+    "city": "San Jose",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 4,
+      "style": 2,
+      "shirt": 4,
+      "background": 3,
+      "glasses": true
+    }
+  },
+  {
+    "id": 185,
+    "name": "Opal Daley",
+    "age": 37,
+    "gender": "Nonbinary",
+    "occupation": "Bus driver",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 0,
+      "style": 2,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 186,
+    "name": "Amara Kovacs",
+    "age": 63,
+    "gender": "Woman",
+    "occupation": "Accountant",
+    "education": "Doctorate",
+    "city": "San Jose",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Black or African American",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 3,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 187,
+    "name": "Gemma Sandoval",
+    "age": 53,
+    "gender": "Nonbinary",
+    "occupation": "Social worker",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 6,
+      "hair": 1,
+      "style": 3,
+      "shirt": 1,
+      "background": 4,
+      "glasses": false
+    }
+  },
+  {
+    "id": 188,
+    "name": "Noelle Finch",
+    "age": 62,
+    "gender": "Man",
+    "occupation": "Teacher",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 6,
+      "hair": 0,
+      "style": 0,
+      "shirt": 0,
+      "background": 7,
+      "glasses": false
+    }
+  },
+  {
+    "id": 189,
+    "name": "Xavier Medina",
+    "age": 64,
+    "gender": "Woman",
+    "occupation": "Designer",
+    "education": "Associate degree",
+    "city": "San Diego",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "Black or African American",
+    "look": {
+      "skin": 0,
+      "hair": 2,
+      "style": 1,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 190,
+    "name": "Felix Thornton",
+    "age": 29,
+    "gender": "Woman",
+    "occupation": "Mechanic",
+    "education": "Doctorate",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Multiracial",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 0,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 191,
+    "name": "Mateo Hamada",
+    "age": 54,
+    "gender": "Woman",
+    "occupation": "Retired",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 0,
+      "hair": 4,
+      "style": 1,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 192,
+    "name": "Valencia Ogawa",
+    "age": 69,
+    "gender": "Man",
+    "occupation": "Chef",
+    "education": "Bachelor’s degree",
+    "city": "Sacramento",
+    "lawEnforcement": "Community liaison volunteer",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  },
+  {
+    "id": 193,
+    "name": "Ellis Boone",
+    "age": 45,
+    "gender": "Woman",
+    "occupation": "Postal worker",
+    "education": "High school diploma",
+    "city": "San Diego",
+    "lawEnforcement": "No personal connection",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 4,
+      "hair": 2,
+      "style": 1,
+      "shirt": 7,
+      "background": 2,
+      "glasses": false
+    }
+  },
+  {
+    "id": 194,
+    "name": "Maeve Jefferson",
+    "age": 78,
+    "gender": "Nonbinary",
+    "occupation": "Small business owner",
+    "education": "Doctorate",
+    "city": "Fresno",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Hispanic or Latino (self-described race)",
+    "look": {
+      "skin": 5,
+      "hair": 4,
+      "style": 4,
+      "shirt": 6,
+      "background": 5,
+      "glasses": false
+    }
+  },
+  {
+    "id": 195,
+    "name": "Talia Raghavan",
+    "age": 24,
+    "gender": "Man",
+    "occupation": "Electrician",
+    "education": "Master’s degree",
+    "city": "Riverside",
+    "lawEnforcement": "Friend in law enforcement",
+    "race": "American Indian or Alaska Native",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 4,
+      "shirt": 1,
+      "background": 4,
+      "glasses": true
+    }
+  },
+  {
+    "id": 196,
+    "name": "Delaney Decker",
+    "age": 66,
+    "gender": "Nonbinary",
+    "occupation": "Retail manager",
+    "education": "Trade certificate",
+    "city": "Sacramento",
+    "lawEnforcement": "Former civilian agency employee",
+    "race": "Native Hawaiian or Pacific Islander",
+    "look": {
+      "skin": 6,
+      "hair": 3,
+      "style": 3,
+      "shirt": 0,
+      "background": 7,
+      "glasses": true
+    }
+  },
+  {
+    "id": 197,
+    "name": "Leon Leclerc",
+    "age": 76,
+    "gender": "Woman",
+    "occupation": "Software developer",
+    "education": "High school diploma",
+    "city": "Los Angeles",
+    "lawEnforcement": "Former law enforcement officer",
+    "race": "Multiracial",
+    "look": {
+      "skin": 4,
+      "hair": 1,
+      "style": 2,
+      "shirt": 3,
+      "background": 6,
+      "glasses": false
+    }
+  },
+  {
+    "id": 198,
+    "name": "Shiloh Schaefer",
+    "age": 41,
+    "gender": "Woman",
+    "occupation": "Nurse",
+    "education": "Bachelor’s degree",
+    "city": "Davis",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "White",
+    "look": {
+      "skin": 2,
+      "hair": 3,
+      "style": 2,
+      "shirt": 2,
+      "background": 1,
+      "glasses": false
+    }
+  },
+  {
+    "id": 199,
+    "name": "Celeste Fontaine",
+    "age": 70,
+    "gender": "Man",
+    "occupation": "Librarian",
+    "education": "Associate degree",
+    "city": "Long Beach",
+    "lawEnforcement": "No personal connection",
+    "race": "Multiracial",
+    "look": {
+      "skin": 1,
+      "hair": 0,
+      "style": 0,
+      "shirt": 5,
+      "background": 0,
+      "glasses": true
+    }
+  },
+  {
+    "id": 200,
+    "name": "Keira Mercer",
+    "age": 74,
+    "gender": "Man",
+    "occupation": "Student",
+    "education": "Bachelor’s degree",
+    "city": "Fresno",
+    "lawEnforcement": "Family member in law enforcement",
+    "race": "Asian",
+    "look": {
+      "skin": 5,
+      "hair": 0,
+      "style": 1,
+      "shirt": 4,
+      "background": 3,
+      "glasses": false
+    }
+  }
+]
